@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{31A6C05F-4E22-D52A-6C9C-218C057CCC48}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MyProjectCPP",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
